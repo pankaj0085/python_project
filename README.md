@@ -5,6 +5,9 @@ The project's foundation was the raw transaction data, which required a robust p
 ## Project Overview 📊
 The primary goal of this project is to analyze sales performance during the Diwali festival period to understand customer purchasing behavior and optimize future marketing and inventory strategies. The analysis focused on identifying high-value customer segments based on Gender, Marital Status, Age Group, State, and Occupation, alongside the best-selling Product Categories.The total sales amount analyzed after cleaning is approximately $\text{INR } 106.25 \text{ million}$ across approximately $28,000$ orders.
 
+## Tools Used 🛠
+1. PYTHON
+2. MICROSOFT EXCEL (for reporting)
 
 ## Key Analytical Insights 💡
 The analysis yielded clear and significant insights into the Diwali consumer landscape:

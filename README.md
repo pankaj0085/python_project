@@ -26,3 +26,8 @@ The project successfully mapped the ideal customer profile for Diwali sales: a y
 
 ## Strategic Recommendation 🎯
 The strategic recommendation is clear: future marketing budgets and inventory allocations must be hyper-targeted toward this high-spending female segment across the top three geographical states. By prioritizing these customer demographics and ensuring deep stock in the leading product categories, businesses can significantly enhance sales efficiency and revenue capture in subsequent festival cycles.
+
+
+
+<img width="1440" height="812" alt="Screenshot 2025-10-24 at 10 24 03 PM" src="https://github.com/user-attachments/assets/6a002b26-5f33-4b2c-a811-480ff2a43c57" />
+

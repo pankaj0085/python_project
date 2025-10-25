@@ -34,3 +34,13 @@ The strategic recommendation is clear: future marketing budgets and inventory al
 
 <img width="1440" height="812" alt="Screenshot 2025-10-24 at 10 24 03 PM" src="https://github.com/user-attachments/assets/6a002b26-5f33-4b2c-a811-480ff2a43c57" />
 
+# 🌟 About Me
+## 👋 Hi, I'm PANKAJ CHAUHAN
+I'm an aspiring Data Analyst passionate about exploring data and uncovering meaningful insights.
+Currently, I’m building my foundation in SQL, Power BI, Excel, and Python while working on projects that strengthen my analytical and visualization skills.
+- 🌱 Learning data analysis, visualization, and reporting
+- 🧠 Interested in business intelligence and data storytelling
+- 🎯 Goal: To apply analytical skills to real-world business problems
+# 🤝 Connect With Me
+## LINKEDIN = https://www.linkedin.com/in/pankaj-chauhan-00108225a/
+## E-MAIL = pankajchauhan3470@gmail.com
